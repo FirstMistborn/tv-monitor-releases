@@ -77,3 +77,6 @@ Please [open an issue](https://github.com/FirstMistborn/tv-monitor-releases/issu
 
 ## Updating
 Download and install the new version the same way. Your settings are kept.
+
+## Copyright
+Copyright (c) 2026 FirstMistborn. All rights reserved. TV Monitor may not be copied, modified, or redistributed without prior written permission from the author. See [NOTICE.md](NOTICE.md).
