@@ -56,6 +56,8 @@ adb shell appops set com.local.netmonitor GET_USAGE_STATS allow
 ```
 Your TV's IP is under Settings → My Fire TV → About → Network.
 
+3. Switch **ADB debugging** off again. While it's on, other devices on your Wi-Fi can ask to control the TV.
+
 ## View on your phone
 1. In TV Monitor go to **Settings → Phone**, then set **Phone view** to **On**.
 2. On a phone on the **same Wi-Fi**, scan the QR code with the camera and open the link.
