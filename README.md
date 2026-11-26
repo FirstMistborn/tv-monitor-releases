@@ -28,6 +28,7 @@ https://github.com/FirstMistborn/tv-monitor-releases/releases/latest/download/TV
 | Fire TV Stick 4K Max (Fire OS 8) | Tested |
 | Fire TV Stick Lite, 1st gen 2020 (Fire OS 7) | Tested by a user |
 | TCL Google TV (Android 14) | Tested |
+| Google TV Streamer (Android 14) | Tested |
 | Samsung Galaxy Tab A8 (Android 14) | Tested |
 | Android phones (Android 8 or newer) | Should work: phone layout tested at phone size on a tablet. **Please tell me!** |
 | Other Fire TV / Google TV / Android TV on Android 8 or newer | Should work: **please tell me!** |
