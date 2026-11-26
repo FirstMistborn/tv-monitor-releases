@@ -2,7 +2,7 @@
 
 See how fast your TV's internet really is, and whether it's fast enough for 4K, while you watch.
 
-A network and system monitor for **Fire TV, Google TV and Android TV**. **This is a test version.** Thanks for trying it!
+A network and system monitor for **Fire TV, Google TV and Android TV**. It also runs on **Android phones and tablets**, with a touch layout. **This is a test version.** Thanks for trying it!
 
 ## Download
 **[Download TVMonitor.apk](https://github.com/FirstMistborn/tv-monitor-releases/releases/latest/download/TVMonitor.apk)** (always the newest version)
@@ -26,9 +26,12 @@ https://github.com/FirstMistborn/tv-monitor-releases/releases/latest/download/TV
 | Device | Status |
 | --- | --- |
 | Fire TV Stick 4K Max (Fire OS 8) | Tested |
+| Fire TV Stick Lite, 1st gen 2020 (Fire OS 7) | Tested by a user |
 | TCL Google TV (Android 14) | Tested |
+| Samsung Galaxy Tab A8 (Android 14) | Tested |
+| Android phones (Android 8 or newer) | Should work: phone layout tested at phone size on a tablet. **Please tell me!** |
 | Other Fire TV / Google TV / Android TV on Android 8 or newer | Should work: **please tell me!** |
-| Fire Sticks on Fire OS 5 or 6, Samsung, LG, Roku, Apple TV | Won't work |
+| Fire Sticks on Fire OS 5 or 6, Samsung TVs, LG TVs, Roku, Apple TV, iPhone, iPad | Won't work |
 
 ## Install
 1. Allow apps from unknown sources:
